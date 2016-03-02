@@ -1,14 +1,28 @@
-layout_spectrum: 0.578312
-color:
-  saturation: 0.698549
-  lightness: 0.3781362
-  brandStrength: 0.3799283
-  brandColors:
-    - '#FFFFFF'
-    - '#262938'
-    - '#FBD7C6'
-    - '#D8A490'
-    - '#9B6C5C'
-  rhythmicContrast: 0.2453486
-typography_spectrum: 0.973178
 name: Eric Gammals
+favicon: null
+layout_spectrum: 0.578312
+typography_spectrum: 0.973178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e1d4cc'
+    - '#0e1752'
+    - '#bd9b7d'
+    - '#ae5c3c'
+    - '#184eb3'
+  brandStrength: 0.3799283
+  lightness: 0.3781362
+  saturation: 0.698549
+  rhythmicContrast: 0.2453486
+purpose: []
